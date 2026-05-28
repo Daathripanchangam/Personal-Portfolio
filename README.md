@@ -1,8 +1,9 @@
 **Portfolio Website 🌐**
 
 A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, work experience, research publications, and professional journey as an aspiring Data Analyst and former Lecturer.
-**
-📌 About the Project**
+
+**📌 About the Project**<img width="1737" height="844" alt="home page" src="https://github.com/user-attachments/assets/7c9edba9-6568-48db-8e4b-571156bdd8b1" />
+
 
 This portfolio website was designed to present my academic background, technical expertise, professional experience, and projects in a clean and interactive way.
 
