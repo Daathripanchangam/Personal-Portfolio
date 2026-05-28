@@ -19,8 +19,7 @@ The website follows a modern dark-themed UI with elegant pink highlights and res
 
   **📁 Folder Structure**
 
-  Portfolio/
-  │
+  Portfolio
   ├── index.html
   ├── styles.css
   ├── assets/
