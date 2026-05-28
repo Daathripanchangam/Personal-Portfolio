@@ -17,18 +17,20 @@ The website follows a modern dark-themed UI with elegant pink highlights and res
   VS Code
   GitHub
 
-  **📁 Folder Structure**
-
-  Portfolio
-  ├── index.html
-  ├── styles.css
-  ├── assets/
-  │   ├── profile1.png
-  │   ├── linkedin.png
-  │   ├── github.png
-  │   └── resume.pdf
-  │
-  └── README.md
+**📁 project-folder**
+│
+├── streamlit_app.py        # Main application file
+├── amazon_alexa.tsv        # Dataset
+├── models/                 # Saved models (.pkl files)
+│   ├── model_rf.pkl
+│   ├── model_dt.pkl
+│   ├── model_xgb.pkl
+│   ├── model_nb.pkl
+│   ├── model_svm.pkl
+│   ├── vectorizer.pkl
+│   └── data_hash.txt
+│
+└── README.md
 
 **  ⚙️ How to Run the Project**
 
