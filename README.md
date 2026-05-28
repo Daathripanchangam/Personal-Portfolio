@@ -23,7 +23,6 @@ The website follows a modern dark-themed UI with elegant pink highlights and res
     │
     ├── index.html
     ├── styles.css
-    ├── sec1.css
     ├── assets/
     │   ├── profile1.png
     │   ├── linkedin.png
